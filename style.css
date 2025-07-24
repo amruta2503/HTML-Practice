@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 29%, rgba(0, 212, 255, 1) 100%);
+}
+
+.quote{
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    font-family: 'Quintessential', cursive;
+    font-weight: 400px;
+    font-size: 25px;
+    line-height: 1.5;
+}
+
+.author{
+    text-align: center   ;
+    color: white;
+    letter-spacing: 1px;
+    font-family: 'Quintessentiali', cursive;
+    font-weight: 400;
+    font-size: 15px;
+    font-style: italic;
+}
