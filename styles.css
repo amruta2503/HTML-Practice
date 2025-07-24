@@ -1,0 +1,28 @@
+body{
+    /* justify-content: center; */
+    /* width: 500px;
+    height: 500px; */
+    text-align: center;
+}
+
+.card{
+    border: 3px solid #641e16;
+    border-radius: 20px;
+    font-family: 'Playfair Display';
+    background-color:#e59866   ;
+}
+
+h1{
+    color: #5a241e;
+    text-align: center;
+    text-shadow: 2px 2px 2px grey;
+}
+
+p{
+    text-align: center;
+    font-style: italic;
+}
+
+.specialties{
+    text-align: center;
+}
